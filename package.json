@@ -1,0 +1,27 @@
+{
+  "name": "oscyoutubechopper",
+  "version": "1.0.0",
+  "description": "youtube chopping with osc",
+  "main": "osc_listener.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FunctionalJerk/oscYouTubeChopper.git"
+  },
+  "keywords": [
+    "livecoding",
+    "websockets"
+  ],
+  "author": "David Hanraths",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FunctionalJerk/oscYouTubeChopper/issues"
+  },
+  "homepage": "https://github.com/FunctionalJerk/oscYouTubeChopper#readme",
+  "dependencies": {
+    "node-osc": "^11.0.0",
+    "ws": "^8.18.3"
+  }
+}
