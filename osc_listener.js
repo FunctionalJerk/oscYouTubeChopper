@@ -1,3 +1,5 @@
+// JS Code by https://github.com/capital-G
+
 import { Server } from 'node-osc';
 import { WebSocketServer } from 'ws';
 
