@@ -1,9 +1,0 @@
-{
-  "scripts": {
-    "start": "node osc_listener.js"
-  },
-  "dependencies": {
-    "node-osc": "^11.0.0",
-    "ws": "^ 8.18.3"
-  }
-}
